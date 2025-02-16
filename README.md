@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alireza-brtn
+- 👋 Howdy. My name is Alireza Baratian. You can call me Ali by the way.
 - 👀 I’m interested in Linux and everything running on top of it!
 - 🌱 I’m currently learning LPIC-1
 - 💞️ I’m looking to collaborate on any fun, collaborative and useful project.
